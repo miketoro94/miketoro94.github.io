@@ -1,0 +1,46 @@
+body {
+    background-color: chartreuse;
+  }
+
+
+  a:hover {
+    font-family: cursive;
+color:Darkgreen;
+  }
+  header {
+      background-color: rgb(255,225,30)	;
+color:red
+  }
+
+
+  footer {
+      background-color: rgb(255,225,30);
+      color: red;
+   padding: 5px 5px 5px 5px;
+}
+
+}
+/* header,footer{ */
+  /* background-color:lime; */
+  /* color:red; */
+/* } */
+
+
+h1 {
+    font-size:3em;
+}
+
+nav {
+  background-color: lightblue;
+  font-size: 1.6em;
+  color: red;
+  padding: 10px;
+  border: thin solid red;
+  text-decoration: none;
+  text-align: center;
+
+}
+
+.border {
+    border: thick solid blue;
+}
