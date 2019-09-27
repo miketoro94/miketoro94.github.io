@@ -55,6 +55,7 @@ nav {
 }
 .carousel-indicators .active  {
 
+  interval: 1
   background-color: #4285f4;
 }
 
