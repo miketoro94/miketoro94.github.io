@@ -1,0 +1,93 @@
+form {
+
+ color:green;
+ background-color: rgb(255,225,30);
+
+
+}
+
+
+  a:hover {
+    font-family: cursive;
+    color:Darkgreen;
+
+  }
+  header {
+      background-color: rgb(255,225,30)	;
+color:red
+  }
+
+
+  footer {
+      background-color: rgb(255,225,30);
+      color: red;
+   padding: 5px 5px 5px 5px;
+}
+
+/* header,footer{ */
+  /* background-color:lime; */
+  /* color:red; */
+/* } */
+
+
+h1 {
+    font-size:2em;
+}
+
+nav {
+  background-color: lightblue;
+  font-size: 1.6em;
+  color: red;
+  padding: 10px;
+  border: thin solid red;
+  text-decoration: none;
+  text-align: center;
+
+}
+
+.border {
+    border: thick solid blue;
+}
+
+
+input[type=text] {
+    border: 2px solid Red;
+    width: 100%;
+    /* padding: 8px 8px; */
+    margin: 12px 0;
+    /* box-sizing: border-box; */
+    font-size: 1.5em;
+    clear: both;
+      /* position: relative; */
+      float: center;
+          display: block;
+}
+
+input[type=number] {
+    border: 2px solid Red;
+    width: 100%;
+    /* padding: 8px 8px; */
+    margin: 12px 0;
+    box-sizing: border-box;
+    font-size: 1.5em;
+    clear: both;
+      position: static;
+      float: center;
+          display: block;
+}
+
+input[type=checkbox] {
+  vertical-align: middle;
+  margin: -11px 20px 51px 0;
+  padding: 16px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+}
+
+button[type=submit] {
+
+
+  position: absolute;
+  left: 1200px;
+  top: 550px;
+}
